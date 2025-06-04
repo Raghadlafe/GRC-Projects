@@ -9,7 +9,7 @@ Below is a list of projects contained within this repository:
 ### 1. Cybersecurity Risk Assessment - Company A
    * **Description:** A cybersecurity risk assessment for the fictional "Company A," featuring an interactive Power BI dashboard to visualize.
    * **Status:** Completed
-   * **Technologies Used:** Microsoft Power BI, Microsoft Excel
+   * **Tools Used:** Microsoft Power BI, Microsoft Excel
    * **Contents:**
       * `Risk Assessment Project.pdf`: The final risk assessment report.
       * `Asset inventory.xlsx`: Supporting data (asset inventory, risk register).
