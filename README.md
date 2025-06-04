@@ -6,7 +6,7 @@ Welcome to my GRC Projects repository! This repository serves as a collection of
 
 Below is a list of projects contained within this repository:
 
-### 1. Cybersecurity Risk Assessment Dashboard - Company A
+### 1. Cybersecurity Risk Assessment - Company A
    * **Description:** A cybersecurity risk assessment for the fictional "Company A," featuring an interactive Power BI dashboard to visualize.
    * **Status:** Completed
    * **Technologies Used:** Microsoft Power BI, Microsoft Excel
@@ -17,7 +17,7 @@ Below is a list of projects contained within this repository:
    * **Interactive Dashboard (Public Link):** (https://app.powerbi.com/view?r=eyJrIjoiMTg5ZTFhOWUtOGMzMy00NWE1LTkxZmItY2I5YmQ0ZmM4ODk5IiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9)
 
 ## About This Repository
-The aim of this repository is to showcase practical applications and projects within the GRC domain.
+This repository aims to showcase practical applications and projects within the GRC domain.
 
 ## Author
 * **Raghad Lafe**
